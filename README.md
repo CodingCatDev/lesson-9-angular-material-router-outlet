@@ -1,3 +1,12 @@
+# AJonP - Resources
+🎥 YouTube: https://bit.ly/ajonp-youtube-sub  
+🌎 Site: https://ajonp.com  
+📦 GitHub: https://github.com/ajonpllc  
+🎓Lessons: https://ajonp.com/lessons/   
+🗞AJ’s Week in Web: https://bit.ly/aj-week-in-web   
+💬 Slack: https://bit.ly/ajonp-slack-invite   
+🐦 Twitter: https://bit.ly/ajonp-twitter  
+
 # Angular Material Router Outlet
 
 This lesson will start from a new Angular Project and walk through how to use Angular Material [Sidenav](https://material.angular.io/components/sidenav/overview) using the Angular [Router](https://angular.io/guide/router) with [Named Outlets](https://angular.io/guide/router#displaying-multiple-routes-in-named-outlets). This will be the begining of building a app for publishing book reviews.
